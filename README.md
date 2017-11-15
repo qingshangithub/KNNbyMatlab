@@ -1,4 +1,5 @@
 # KNNbyMatlab
+<<<<<<< HEAD
 KNN算法的matlab实现。训练了两个数据集，分别是MNIST和CIFAR，
 
 1. 数据库下载地址：
@@ -29,3 +30,6 @@ KNN算法的matlab实现。训练了两个数据集，分别是MNIST和CIFAR，
 
 
 
+=======
+KNN realization by matlab.
+>>>>>>> parent of 5e2edec... First commit
